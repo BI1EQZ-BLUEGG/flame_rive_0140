@@ -1,1 +1,1 @@
-flame_rive(RiveComponent) is compatible with rive 0.14.0.
+This code uses Rive 0.14.0 to adapt Flame's `flame_rive`. Note that it only supports Rive's `Factory.flutter` rendering.
